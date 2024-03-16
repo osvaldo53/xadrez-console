@@ -66,6 +66,7 @@
     <Compile Include="XadrezTabuleiro\Posicao.cs" />
     <Compile Include="XadrezTabuleiro\Tabuleiro.cs" />
     <Compile Include="XadrezTabuleiro\TabuleiroException.cs" />
+    <Compile Include="Xadrez\PosicaoXadrez.cs" />
     <Compile Include="Xadrez\Rei.cs" />
     <Compile Include="Xadrez\Torre.cs" />
   </ItemGroup>
