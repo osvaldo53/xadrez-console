@@ -16,5 +16,10 @@ namespace XadrezTabuleiro
             Tab = tab;
             QtdeMovimentos = 0;
         }
+
+        public void IncrementarQtMovimentos()
+        {
+            QtdeMovimentos++;
+        }
     }
 }
